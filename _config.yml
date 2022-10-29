@@ -33,6 +33,10 @@ theme: minima
   skin: auto
 plugins:
   - jekyll-feed
+minima:
+  social_links:
+    github: reyvababtista
+    linkedin: reyvababtista
 
 # Exclude from processing.
 # The following items will not be processed, by default.
