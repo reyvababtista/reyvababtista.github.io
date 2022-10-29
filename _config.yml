@@ -19,8 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Reyva Babtista's site
+tagline: Reyva Babtista's personal site
 description: >- # this means to ignore newlines until "baseurl:"
   Working my way to be a Computer Scientist.
+url: https://reyvababtista.github.io
+google-site-verification: LLheTXU9XdY-YpbNuJvE9i7yc90kP_LS79pUuRnp-3Q
 baseurl: "/" # the subpath of your site, e.g. /blog
 github_username:  reyvababtista
 google_analytics: G-YGXBT00Y16
