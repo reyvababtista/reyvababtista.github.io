@@ -30,7 +30,6 @@ google_analytics: G-YGXBT00Y16
 
 # Build settings
 theme: minima
-  skin: auto
 plugins:
   - jekyll-feed
 
