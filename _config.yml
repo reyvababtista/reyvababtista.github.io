@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Reyva Babtista's site
-tagline: Reyva Babtista's personal site
+title: Reyva Babtista 
+tagline: Computer Scientist
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Scientist
+  
 url: https://reyvababtista.github.io
 google-site-verification: LLheTXU9XdY-YpbNuJvE9i7yc90kP_LS79pUuRnp-3Q
 baseurl: "/" # the subpath of your site, e.g. /blog
