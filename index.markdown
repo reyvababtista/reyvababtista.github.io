@@ -6,6 +6,6 @@ layout: home
 ---
 Hi, there!
 
-This is Rey. I am a Master of Computer Science student at the [University of Missouri-Columbia](https://missouri.edu) and currently working on a data analysis/machine learning pipeline for [TigerAware](https://tigeraware.com). My work is supervised by [Professor Yi Shang](https://engineering.missouri.edu/faculty/yi-shang/) along with [Professor Timothy Trull](https://psychology.missouri.edu/people/trull) under the [Distributed and Intelligent Computing Laboratory](http://dslsrv1.rnet.missouri.edu).
+Meet Rey, currently pursuing a Master’s in Computer Science at the [University of Missouri-Columbia](https://missouri.edu), specializing in AI and Machine Learning research. My latest project involves developing a data analysis and machine learning pipeline utilizing GPT-based Large Language Models for [TigerAware](https://tigeraware.com). Under the guidance of [Professor Yi Shang](https://engineering.missouri.edu/faculty/yi-shang/) and [Professor Timothy Trull](https://psychology.missouri.edu/people/trull), I am part of the [Distributed and Intelligent Computing Laboratory](http://dslsrv1.rnet.missouri.edu). My background includes over five years of robust industry experience, having served as a Software Engineer and in leadership roles across startups, banking, and manufacturing sectors.
 
-See my [LinkedIn](https://www.linkedin.com/in/reyvababtista/).
+For inquiries, drop an email at reyvababtista16[at]gmail[dot]com or check out my [LinkedIn](https://www.linkedin.com/in/reyvababtista/).
